@@ -1,6 +1,4 @@
-# Zero to Mastery: Complete Angular Developer in 2023
 
-This repo contains the source files to accompany the Angular course found at [zerotomastery.io](https://zerotomastery.io/courses/learn-angular/).
 
 ## Development server
 
@@ -16,7 +14,7 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 ## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Run `ng test` to execute the unit tests via
 
 ## Running end-to-end tests
 
